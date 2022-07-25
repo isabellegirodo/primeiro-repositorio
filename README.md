@@ -5,7 +5,7 @@ Use apenas a versão: 3 do interpretador Python. O **programa menudeopcao.py** n
 Download o **[ primeiro-repositorio ]** antes de usar o **programa menudeopcao.py**
 
 Para executar o **programa menudeopcao.py** no **sistema operacional Windows** use a **opção: [1] ou [2]** descrita abaixo:
-**[1]**  Abra a tela: **“Prompt de Comando”** e digite os seguintes comandos:
+**[1]** Abra a tela: **“Prompt de Comando”** e digite os seguintes comandos:
 
 ```
 C:\>cd C:\Users\Nome_do_Usuário\Desktop
@@ -52,7 +52,7 @@ Após a **instalação do JetBrains Toolbox App**, abra o [form] e clique na gui
 [1] Na *1ª vez após a instalação*, use a opção: Abrir Toolbox no *ícone: Cubo rosa preto* na [barra iniciar] do **Windons** ou na [barra inferior] do **Linux Mint 20.3 MATE**.
 
 [2] Após dar um [único clique] no ícone: PyCharm Community e aguarde o IDE PyCharm abrir.
-[3] Na IDE PyCharm aberta, **crie um [novo] subdiretório: devtest** ou qualquer outro nome que o usuário preferir digitando os passos:
+[3] Na IDE PyCharm aberta,**crie um [novo] subdiretório: devtest** ou qualquer outro nome que o usuário preferir digitando os passos:
 
 ```
 File → NewProject…
@@ -69,7 +69,7 @@ Sobre as palavras sombreadas: pythonProject, digite o [novo] nome: devtest ou qu
 
 [4] Para finalizar, clicar na guia inferior :  Create do form: Create Project e o novo subdiretório: devtest será criado na barra vertical esquerda da IDE PyCharm.
 
-[5] Após, o usuário poderá usar a  IDE PyCharm.Community 2022.1.4 para editar o arquivo: menudeopcao.py teclando nas seguintes guias:
+[5] Após, o usuário poderá usar a **IDE PyCharm.Community 2022.1.4** para editar o **arquivo: menudeopcao.py** teclando nas seguintes guias:
 
 ```
 New… →  New Python file → menudeopcao.py → ENTER
