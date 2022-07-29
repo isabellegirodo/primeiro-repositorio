@@ -58,7 +58,7 @@ while opcao != 7:
             print(f'O número {num} é ímpar\n')
     elif opcao == 4:
         fat = factorial(num)
-        print(f'O fatorial é {fat}\n')
+        print(f'O fatorial de {num} é {fat}\n')
     elif opcao == 5:
         for t in range(1,11):
             print(f'{num} x {t} = {num * t}\n')
