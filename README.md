@@ -46,6 +46,7 @@ Após a **instalação do JetBrains Toolbox App**, abra o [form] e clique na gui
  
 **Advertência2**: Use somente o instalador: **JetBrains Toolbox App** para instalar a **IDE PyCharm.Community 2022.1.4**. Todas as instruções no site estão no idioma: inglês.
 
+**Advertência3**: Se a **PyCharm.Community** já existe no *Gerenciador de Pacotes Synaptic* como no **sistema operacional Ubuntu-22.04-LTS Linux** ou outras *distribuições Linux*, instale a IDE **PyCharm.Community** usando o *Gerenciador de Pacotes Synaptic* sem usar as *instruções do site*.
 
 **Executando o arquivo: menudeopcao.py usando a IDE PyCharm.Community 2022.1.4**. Seguir os passos:
 
@@ -79,7 +80,7 @@ Após, digitar todo o conteúdo do arquivo: menudeopcao.py, execute usando os co
 ```
 Run → ►Run… → menudeopcao
 ```
-**Advertência3**: O usuário poderá também copiar o arquivo: menudeopcao.py já editado com *Python3-IDLE-3.8.10* do **subdiretório: /home/Nome_do_Usuário** do *Linux Mint 20.3 MATE* para o **subdiretório: /PycharmProjects/devtest**. Após, execute o **arquivo: menudeopcao.py** usando as instruções anteriores na **IDE PyCharm.Community 2022.1.4**. 
+**Advertência4**: O usuário poderá também copiar o arquivo: menudeopcao.py já editado com *Python3-IDLE-3.8.10* do **subdiretório: /home/Nome_do_Usuário** do *Linux Mint 20.3 MATE* para o **subdiretório: /PycharmProjects/devtest**. Após, execute o **arquivo: menudeopcao.py** usando as instruções anteriores na **IDE PyCharm.Community 2022.1.4**. 
 
 **Exemplo de execução do programa: menudeopcao.py no Terminal do Linux**.
 
@@ -120,7 +121,7 @@ Qual é a sua opção?
 	-- Digite um número positivo? 2
 	**[ O [Número Inteiro Positivo]: 2 é um [Número] válido! ]**
 
-A raiz quadrada é 2.23606797749979
+A raiz quadrada de 5 é 2.23606797749979
 
 Selecione uma das opções:
     [1] Dobro
@@ -152,7 +153,7 @@ Qual é a sua opção?
 	-- Digite um número positivo? 4
 	**[ O [Número Inteiro Positivo]: 4 é um [Número] válido! ]**
 
-O fatorial é 120
+O fatorial de 5 é 120
 
 Selecione uma das opções:
     [1] Dobro
